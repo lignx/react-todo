@@ -1,10 +1,12 @@
-# React-Todo
 
-Todo app: a react demo project made for learning.
-The app is online here: http://nzonbi.github.io/react-todo/
+## Note
+This is an outdated, learning project, from my early coding days.\
+Have improved significantly, since then.\
+(https://xiggfi.web.app)
 
+## Demo
 
-MIT license
+See the app here: (https://lignx.github.io/react-todo)
 
 ## Installation
 
